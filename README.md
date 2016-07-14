@@ -8,7 +8,7 @@ Is it Right ?
 
 Surely It is right. You Have to just add it into your Project and Do Some Basic Steps.And Your App with Sqlite DB is ready to use. No need to maintain Model Class and All.
 
-Step 1 - Download Framework From This Link[a relative link](https://app.box.com/s/cl53hm9cc3w6vzupo766lpfpnqa4xedl).
+Step 1 - Download Framework From This [link](https://app.box.com/s/cl53hm9cc3w6vzupo766lpfpnqa4xedl).
 
 Step 2 - Drag And Drop This Framework to your App. Dont Forget to check it Copy.
 
