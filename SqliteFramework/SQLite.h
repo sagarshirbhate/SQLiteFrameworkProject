@@ -18,14 +18,6 @@
  */
 + (id) sharedInstance;
 
-/**
- *  Initialization Method Where the classes inside the Framework Got Memory
- *
- *  @return Self
- */
-- (instancetype)init;
-
-
 
 /**
  *  This method Create the Database file into document folder of app. If Database file Alredy Present In App with same name then it will not create new file.
